@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Bhonde</h1>
+<h1 align="center">Hi 👋, I'm Abhishek </h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbhonde&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbhonde" /> </p>
@@ -35,6 +35,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekbhonde&show_icons=true&locale=en&layout=compact" alt="abhishekbhonde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekbhonde&show_icons=true&locale=en" alt="abhishekbhonde" /></p>
+[![An image of @abhishekbhonde567's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekbhonde567)](https://holopin.io/@abhishekbhonde567)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbhonde&" alt="abhishekbhonde" /></p>
-[![@abhishekbhonde567's Holopin board](https://holopin.me/abhishekbhonde567)](https://holopin.io/@abhishekbhonde567)
+
