@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Devops and AWS cloud.<br>I'm looking for an Internship.<br>I'm looking for help on Devops Projects.<br>I'm currently learning MERN.<br>Ask me about - AWS, DEVOPS
+💻 I'm currently working on Devops and AWS cloud.<br> 💻 I'm looking for an Internship.<br>💻 I'm looking for help on Devops Projects.<br>💻 I'm currently learning MERN.<br>💻 Ask me about - AWS, DEVOPS
 
 
 ## 🌐 Socials:
