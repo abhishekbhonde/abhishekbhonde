@@ -2,7 +2,11 @@
 <p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
 <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Abhishek+B!>;<Nice+to+meet+you!>">
 </a></hp>
-
+<br>
+<br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=abhishekbhonde&&style=flat-square" align="center" />
+</div>
 
 # 💫 About Me:
 💻 I'm currently working on Devops and AWS cloud.<br> 💻 I'm looking for an Internship.<br>💻 I'm looking for help on Devops Projects.<br>💻 I'm currently learning MERN.<br>💻 Ask me about - AWS, DEVOPS
