@@ -27,8 +27,4 @@
 ## 🏆 Here's My Hacktoberfest Dashboard
 
 [![An image of @abhishekbhonde567's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekbhonde567)](https://holopin.io/@abhishekbhonde567)
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
