@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-💻 I'm currently working on Devops and AWS cloud.<br> 💻 I'm looking for an Internship.<br>💻 I'm looking for help on Devops Projects.<br>💻 I'm currently learning MERN.<br>💻 Ask me about - AWS, DEVOPS <br> Contact- Email: abhishekbhonde31@gmail.com <br>
+🚀 Developer, Cloud, Deployments, Cross platform Applications
+<br> Contact- Email: abhishekbhonde31@gmail.com <br>
                      Phone: 9284324926
 
 
