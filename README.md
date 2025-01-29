@@ -1,6 +1,9 @@
 # 💫 *About Me:*
 🚀 *Developer, Cloud, Deployments, Cross-platform Applications*  
 <br> 
+> "Code is like humor. When you have to explain it, it’s bad."  
+> – *Cory House*
+
 **Contact**  
 📧 *Email:* [abhishekbhonde31@gmail.com](mailto:abhishekbhonde31@gmail.com)  
 📱 *Phone:* 9284324926
